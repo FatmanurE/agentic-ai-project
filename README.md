@@ -92,3 +92,5 @@ agentic-ai-project/
 ## 👤 Author
 
 Fatmanur Ertaş
+- GitHub: [@FatmanurE](https://github.com/FatmanurE)
+- LinkedIn: [Fatmanur Ertaş](https://www.linkedin.com/in/fatmanur-ertas-38ab19208/)
